@@ -20,7 +20,7 @@ namespace _1496
             {
                 Console.WriteLine(res[i]);
             }
-            Console.ReadKey();
+            Console.ReadKey();//лляля
         }
     }
 }
