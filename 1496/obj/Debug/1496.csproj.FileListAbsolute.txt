@@ -1,0 +1,13 @@
+c:\users\demen\documents\visual studio 2015\Projects\1496\1496\bin\Debug\1496.exe.config
+c:\users\demen\documents\visual studio 2015\Projects\1496\1496\bin\Debug\1496.exe
+c:\users\demen\documents\visual studio 2015\Projects\1496\1496\bin\Debug\1496.pdb
+c:\users\demen\documents\visual studio 2015\Projects\1496\1496\obj\Debug\1496.csprojResolveAssemblyReference.cache
+c:\users\demen\documents\visual studio 2015\Projects\1496\1496\obj\Debug\1496.exe
+c:\users\demen\documents\visual studio 2015\Projects\1496\1496\obj\Debug\1496.pdb
+E:\Progs\Git\My\1496\1496\bin\Debug\1496.exe.config
+E:\Progs\Git\My\1496\1496\obj\Debug\1496.exe
+E:\Progs\Git\My\1496\1496\obj\Debug\1496.pdb
+E:\Progs\Git\My\1496\1496\bin\Debug\.gitignore
+E:\Progs\Git\My\1496\1496\bin\Debug\1496.exe
+E:\Progs\Git\My\1496\1496\bin\Debug\1496.pdb
+E:\Progs\Git\My\1496\1496\obj\Debug\1496.csprojResolveAssemblyReference.cache
